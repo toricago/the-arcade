@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+}
+
+#game-container {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#word-display {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+#guesses-remaining {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+#letters-guessed {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+#game-over {
+  font-size: 2rem;
+  font-weight: bold;
+  color: red;
+  display: none;
+  margin-top: 20px;
+}
