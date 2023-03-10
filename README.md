@@ -1,2 +1,2 @@
 # the-arcade
-A collection of small games created bt javascript
+A collection of small games created by javascript
